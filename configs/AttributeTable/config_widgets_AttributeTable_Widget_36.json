@@ -1,0 +1,371 @@
+{
+  "layerInfos": [
+    {
+      "name": "Absensi - X IPS 1",
+      "id": "survey123_738a4cc7211943788ed35ea542cbef1b_fieldworker_8027",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_738a4cc7211943788ed35ea542cbef1b_fieldworker/FeatureServer/0",
+        "fields": [
+          {
+            "name": "objectid",
+            "alias": "ObjectID",
+            "show": false
+          },
+          {
+            "name": "globalid",
+            "alias": "GlobalID",
+            "show": false
+          },
+          {
+            "name": "CreationDate",
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Creator",
+            "alias": "Creator",
+            "show": false
+          },
+          {
+            "name": "EditDate",
+            "alias": "EditDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Editor",
+            "alias": "Editor",
+            "show": false
+          },
+          {
+            "name": "nama",
+            "alias": "Nama",
+            "show": true
+          },
+          {
+            "name": "npm",
+            "alias": "NPM",
+            "show": true
+          }
+        ]
+      },
+      "show": null,
+      "showAttachments": false,
+      "sortField": "nama",
+      "isDescending": false
+    },
+    {
+      "name": "Absensi - X IPS 2",
+      "id": "survey123_93c03f53f723481292f8963d8007251a_stakeholder_7593",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_93c03f53f723481292f8963d8007251a_stakeholder/FeatureServer/0",
+        "fields": [
+          {
+            "name": "objectid",
+            "alias": "ObjectID",
+            "show": false
+          },
+          {
+            "name": "globalid",
+            "alias": "GlobalID",
+            "show": false
+          },
+          {
+            "name": "CreationDate",
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Creator",
+            "alias": "Creator",
+            "show": false
+          },
+          {
+            "name": "EditDate",
+            "alias": "EditDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Editor",
+            "alias": "Editor",
+            "show": false
+          },
+          {
+            "name": "nama",
+            "alias": "Nama",
+            "show": true
+          },
+          {
+            "name": "npm",
+            "alias": "NPM",
+            "show": true
+          }
+        ]
+      },
+      "show": null,
+      "showAttachments": false,
+      "sortField": "nama",
+      "isDescending": false
+    },
+    {
+      "name": "Absensi - XI IPS 2",
+      "id": "survey123_db031dfd2e1a44f3b31736ed9a6e3dcb_fieldworker_6969",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_db031dfd2e1a44f3b31736ed9a6e3dcb_fieldworker/FeatureServer/0",
+        "fields": [
+          {
+            "name": "objectid",
+            "alias": "ObjectID",
+            "show": false
+          },
+          {
+            "name": "globalid",
+            "alias": "GlobalID",
+            "show": false
+          },
+          {
+            "name": "CreationDate",
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Creator",
+            "alias": "Creator",
+            "show": false
+          },
+          {
+            "name": "EditDate",
+            "alias": "EditDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Editor",
+            "alias": "Editor",
+            "show": false
+          },
+          {
+            "name": "nama",
+            "alias": "Nama",
+            "show": true
+          },
+          {
+            "name": "npm",
+            "alias": "NPM",
+            "show": true
+          }
+        ]
+      },
+      "show": null,
+      "showAttachments": false,
+      "sortField": "nama",
+      "isDescending": false
+    },
+    {
+      "name": "Absensi - XI IPS 2",
+      "id": "survey123_e246868426f64c118c0d913070dcf234_fieldworker_5282",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_e246868426f64c118c0d913070dcf234_fieldworker/FeatureServer/0",
+        "fields": [
+          {
+            "name": "objectid",
+            "alias": "ObjectID",
+            "show": false
+          },
+          {
+            "name": "globalid",
+            "alias": "GlobalID",
+            "show": false
+          },
+          {
+            "name": "CreationDate",
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Creator",
+            "alias": "Creator",
+            "show": false
+          },
+          {
+            "name": "EditDate",
+            "alias": "EditDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Editor",
+            "alias": "Editor",
+            "show": false
+          },
+          {
+            "name": "nama",
+            "alias": "Nama",
+            "show": true
+          },
+          {
+            "name": "npm",
+            "alias": "NPM",
+            "show": true
+          }
+        ]
+      },
+      "show": null,
+      "showAttachments": false,
+      "sortField": "nama",
+      "isDescending": false
+    },
+    {
+      "name": "Absensi - XII IPS 1",
+      "id": "survey123_0b2771974e304dbcb93fff9db17969b6_fieldworker_4563",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_0b2771974e304dbcb93fff9db17969b6_fieldworker/FeatureServer/0",
+        "fields": [
+          {
+            "name": "objectid",
+            "alias": "ObjectID",
+            "show": false
+          },
+          {
+            "name": "globalid",
+            "alias": "GlobalID",
+            "show": false
+          },
+          {
+            "name": "CreationDate",
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Creator",
+            "alias": "Creator",
+            "show": false
+          },
+          {
+            "name": "EditDate",
+            "alias": "EditDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Editor",
+            "alias": "Editor",
+            "show": false
+          },
+          {
+            "name": "nama",
+            "alias": "Nama",
+            "show": true
+          },
+          {
+            "name": "npm",
+            "alias": "NPM",
+            "show": true
+          }
+        ]
+      },
+      "show": null,
+      "showAttachments": false,
+      "sortField": "nama",
+      "isDescending": false
+    },
+    {
+      "name": "Absensi - XII IPS 2",
+      "id": "survey123_de1e67d5c05c41669b4391d5d708bb07_fieldworker_1638",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/survey123_de1e67d5c05c41669b4391d5d708bb07_fieldworker/FeatureServer/0",
+        "fields": [
+          {
+            "name": "objectid",
+            "alias": "ObjectID",
+            "show": false
+          },
+          {
+            "name": "globalid",
+            "alias": "GlobalID",
+            "show": false
+          },
+          {
+            "name": "CreationDate",
+            "alias": "CreationDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Creator",
+            "alias": "Creator",
+            "show": false
+          },
+          {
+            "name": "EditDate",
+            "alias": "EditDate",
+            "show": false,
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          {
+            "name": "Editor",
+            "alias": "Editor",
+            "show": false
+          },
+          {
+            "name": "nama",
+            "alias": "Nama",
+            "show": true
+          },
+          {
+            "name": "npm",
+            "alias": "NPM",
+            "show": true
+          }
+        ]
+      },
+      "show": null,
+      "showAttachments": false,
+      "sortField": "nama",
+      "isDescending": false
+    }
+  ],
+  "table": {
+    "pageSizeOptions": [
+      25,
+      50,
+      100,
+      1000
+    ]
+  },
+  "hideExportButton": true,
+  "initiallyExpand": false,
+  "filterByMapExtent": true,
+  "allowTextSelection": true,
+  "syncWithLayers": true
+}

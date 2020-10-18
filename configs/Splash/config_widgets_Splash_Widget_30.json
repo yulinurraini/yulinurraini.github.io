@@ -1,0 +1,35 @@
+{
+  "splash": {
+    "splashContent": "<div><font size=\"6\"><span style=\"font-family: Tahoma;\"> </span></font></div>\n\t<div align=\"center\"><font size=\"6\"><span style=\"font-family: Tahoma;\">\n\tSelamat Datang di Portal Absensi Mata Pelajaran Geografi </span></font><span style=\"font-family: Tahoma; font-size: xx-large;\">2</span><span style=\"font-family: Tahoma; font-size: xx-large; background-color: rgb(135, 206, 250);\"></span><span style=\"font-family: Tahoma; font-size: xx-large;\">020-2021 SMAIT Nurul Fikri TA 2020-2021</span></div><div align=\"center\"><font size=\"6\"><span style=\"font-family: Tahoma;\">yang diampu oleh Yuli Nurraini</span></font></div><div align=\"center\"><font size=\"6\"><span style=\"font-family: Tahoma;\"><br /></span></font></div><div align=\"center\"><font size=\"6\"><span style=\"font-family: Tahoma;\">Untuk absensi dapat diisi menggunakan tautan berikut:</span></font></div><div align=\"center\"><font size=\"6\"><span style=\"font-family: Tahoma;\">1. </span></font><a href=\"https://arcg.is/0mqu0L\" target=\"_blank\"><font face=\"Tahoma\" size=\"6\">X IPS 1</font></a><font size=\"6\"><span style=\"font-family: Tahoma;\"><br /></span></font></div><div align=\"center\"><font size=\"6\"><span style=\"font-family: Tahoma;\">2. </span></font><a href=\"https://arcg.is/LW1WL\" target=\"_blank\"><font face=\"Tahoma\" size=\"6\">X IPS 2</font></a><font size=\"6\"><span style=\"font-family: Tahoma;\"><br /></span></font></div><div align=\"center\"><font size=\"6\"><span style=\"font-family: Tahoma;\">3. </span></font><a href=\"https://arcg.is/0rH5bS\" target=\"_blank\"><font size=\"6\">XI IPS 1</font></a></div><div align=\"center\"><font size=\"6\"><span style=\"font-family: Tahoma;\">4. </span></font><a href=\"https://arcg.is/0Cvj0v\" target=\"_blank\"><font size=\"6\">XI IPS 2</font></a></div><div align=\"center\"><font size=\"6\"><span style=\"font-family: Tahoma;\">5. </span></font><a href=\"https://arcg.is/1riqWD\" target=\"_blank\"><font size=\"6\">XII IPS 1</font></a><br /><font size=\"6\"><span style=\"font-family: Tahoma;\"></span></font><font size=\"6\"><span style=\"font-family: Tahoma;\"></span></font>\n</div><div align=\"center\"><span style=\"font-family: Tahoma; font-size: xx-large;\">6. </span><a href=\"https://arcg.is/0q4aTS\" target=\"_blank\"><font face=\"Tahoma\" size=\"6\">XII IPS 2</font></a><font size=\"6\"><br /></font></div>",
+    "requireConfirm": false,
+    "confirm": {
+      "text": "",
+      "color": "#ffffff",
+      "transparency": 0
+    },
+    "showOption": true,
+    "confirmEverytime": true,
+    "contentVertical": "top",
+    "size": {
+      "mode": "percent",
+      "percent": "75%",
+      "wh": {
+        "w": 600,
+        "h": 264
+      }
+    },
+    "background": {
+      "mode": "color",
+      "image": null,
+      "type": "fill",
+      "fileName": "No%20file%20chosen",
+      "color": "#485566",
+      "transparency": 0
+    },
+    "button": {
+      "color": "#518dca",
+      "transparency": 0,
+      "text": "OK"
+    }
+  }
+}
