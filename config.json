@@ -30,11 +30,10 @@
       {
         "uri": "themes/LaunchpadTheme/widgets/AnchorBarController/Widget",
         "position": {
-          "bottom": 0,
+          "bottom": 10,
           "height": 40,
-          "width": "100%",
-          "zIndex": 0,
-          "relativeTo": "map"
+          "relativeTo": "map",
+          "zIndex": 0
         },
         "version": "2.16",
         "id": "themes_LaunchpadTheme_widgets_AnchorBarController_Widget_20",
@@ -43,9 +42,9 @@
       {
         "uri": "themes/LaunchpadTheme/widgets/Header/Widget",
         "position": {
-          "left": 0,
-          "right": 0,
-          "top": 0,
+          "left": 15,
+          "top": 17,
+          "width": 670,
           "height": 46,
           "relativeTo": "map"
         },
@@ -56,10 +55,10 @@
       {
         "uri": "widgets/Search/Widget",
         "position": {
-          "left": 10,
-          "top": 10,
-          "right": 10,
-          "zIndex": 0,
+          "left": 350,
+          "top": 25,
+          "width": 300,
+          "zIndex": 1,
           "relativeTo": "map"
         },
         "version": "2.16",
@@ -82,8 +81,8 @@
       {
         "uri": "widgets/ZoomSlider/Widget",
         "position": {
-          "right": 10,
-          "bottom": 160,
+          "left": 25,
+          "top": 95,
           "relativeTo": "map"
         },
         "version": "2.16",
@@ -93,8 +92,8 @@
       {
         "uri": "widgets/HomeButton/Widget",
         "position": {
-          "right": 10,
-          "bottom": 75,
+          "left": 25,
+          "top": 175,
           "relativeTo": "map"
         },
         "id": "widgets_HomeButton_Widget_25",
@@ -104,8 +103,8 @@
       {
         "uri": "widgets/MyLocation/Widget",
         "position": {
-          "right": 10,
-          "bottom": 115,
+          "left": 25,
+          "top": 215,
           "relativeTo": "map"
         },
         "version": "2.16",
@@ -116,8 +115,8 @@
         "uri": "",
         "version": "2.16",
         "position": {
-          "left": 10,
-          "bottom": 70,
+          "right": 20,
+          "bottom": 80,
           "relativeTo": "map"
         },
         "closeable": true,
@@ -138,8 +137,8 @@
       {
         "uri": "widgets/Scalebar/Widget",
         "position": {
-          "left": 50,
-          "bottom": 70,
+          "left": 27,
+          "bottom": 25,
           "relativeTo": "map"
         },
         "version": "2.16",
@@ -158,8 +157,8 @@
       },
       {
         "position": {
-          "left": 10,
-          "bottom": 195,
+          "right": 130,
+          "top": 20,
           "relativeTo": "map"
         },
         "placeholderIndex": 2,
@@ -167,8 +166,8 @@
       },
       {
         "position": {
-          "left": 10,
-          "bottom": 155,
+          "right": 180,
+          "top": 20,
           "relativeTo": "map"
         },
         "placeholderIndex": 3,
@@ -176,8 +175,8 @@
       },
       {
         "position": {
-          "left": 10,
-          "bottom": 115,
+          "right": 230,
+          "top": 20,
           "relativeTo": "map"
         },
         "placeholderIndex": 4,
@@ -187,8 +186,8 @@
         "uri": "widgets/ExtentNavigate/Widget",
         "visible": false,
         "position": {
-          "right": 10,
-          "bottom": 238,
+          "top": 255,
+          "left": 25,
           "relativeTo": "map"
         },
         "version": "2.16",
